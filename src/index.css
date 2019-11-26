@@ -9,4 +9,40 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: whitesmoke;
+}
+
+.navbar-ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+  color: #586069;
+  padding: 1rem;
+}
+
+.main-section {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.title-section {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: midnightblue;
+}
+
+.band-title {
+  font-size: 3rem;
+  color: #345;
+}
+
+.band-image {
+  max-height: 30rem;
 }

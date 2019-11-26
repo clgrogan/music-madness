@@ -1,0 +1,49 @@
+{
+  "performers": [
+    {
+      "performer": "NWA",
+      "quickbio": "Inspiring urban youth and sub-urban wanabees alike, NWA was and is the archetype of Gangsta Rap.",
+      "members": ["Easy E", "Dr. Dre", "Ice Cube", "MC Ren", "DJ Yella"],
+      "albums": [
+        {
+          "title": "Straight Outta Compton",
+          "released": "August 8, 1988",
+          "label": "Ruthless, Priority",
+          "formats": "CD, LP, CS, DL",
+          "imageurl": "https://pages.stolaf.edu/americanmusic/wp-content/uploads/sites/593/2018/05/ice-cube-and-nwa.jpg",
+          "imageinfo": "N.W.A in 1989. Clockwise from bottom left: Ice Cube, DJ Yella, Dr. Dre., MC Ren, and Eazy E. (Douglas R. Burrows / For The Times )"
+        }
+      ]
+    },
+    {
+      "performer": "Eminem",
+      "quickbio": "Dreams of fleeing the trailer-park and crazy lyrical stylings brought Eminem out of the shadows as a true leader of America's youth.",
+      "members": ["Marshall Mathers"],
+      "albums": [
+        {
+          "title": "Slim Shady LP",
+          "released": "February 23, 1999",
+          "label": "Aftermath, Interscope, Web",
+          "formats": "CD, LP, Cassette, digital download",
+          "imageurl": "https://img.cdandlp.com/2016/12/imgL/118398970.jpg",
+          "imageinfo": "The Real Slim Shady Cover Shows Eminem Holding a Skateboard Standing on Stairs."
+        }
+      ]
+    },
+    {
+      "performer": "Katy Perry",
+      "quickbio": "Truly an inspiration to millions of teenage girls and Kim Jong-un alike!",
+      "members": ["Katy Perry"],
+      "albums": [
+        {
+          "title": "Teenage Dream",
+          "released": "August 24, 2010",
+          "label": "Capital Records",
+          "formats": "CD, LP, digital download",
+          "imageurl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Katy_Perry_at_Madison_Square_Garden_%2837436531092%29_%28cropped%29.jpg",
+          "imageinfo": "Katy Perry at Madison Square Gardens. Wearing silver sequin dress and wig."
+        }
+      ]
+    }
+  ]
+}
